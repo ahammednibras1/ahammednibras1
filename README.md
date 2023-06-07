@@ -15,3 +15,11 @@
 
 <!-- My Ticker -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&pause=1000&center=true&width=435&lines=Ahammed+Nibras)](https://git.io/typing-svg)
+
+<!--Github Status -->
+### Github Graph:
+
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ahammednibras1&show_icons=true&theme=radical&include_all_commits=true)  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammednibras1&theme=radical&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahammednibras1"></img>
+
