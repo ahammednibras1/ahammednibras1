@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/ahammed-nibras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahammed-nibras" height="30" width="40" /></a>
 <a href="https://instagram.com/ahammed__nibras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahammed__nibras" height="30" width="40" /></a>
 <a href="https://medium.com/@ahammednibras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahammednibras" height="30" width="40" /></a>
-<a href="https://www.youtube.com/UC_WBMyvPqohdRZD1do1z9FQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_wbmyvpqohdrzd1do1z9fq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ahammed__nibras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_wbmyvpqohdrzd1do1z9fq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
